@@ -1,0 +1,3 @@
+.build/							usr/src/phoenix
+terraform/scripts/install.sh	usr/src/phoenix
+terraform/scripts/start.sh		usr/src/phoenix

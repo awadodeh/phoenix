@@ -1,0 +1,4 @@
+module memplugin {
+    umbrella "/Users/awadowda/test/phoenix/.build/checkouts/omr-agentcore/src/memplugin/include"
+    export *
+}
